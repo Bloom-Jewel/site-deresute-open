@@ -25,6 +25,7 @@ Compound Skills without Requirements are skills that does not require any kind o
 |:-:|:-:|:-:|:-:|:-:|
 |AR|Funny uptime|CU|HP||
 |CRD|Funny SU rate|SU|CU||
+|TUN||CU|PL||
 
 ### With Requirements
 
