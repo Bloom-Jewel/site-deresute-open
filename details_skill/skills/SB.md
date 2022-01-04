@@ -4,29 +4,31 @@ An advanced skill. This skill basically enhances any active skills.
 
 ## Standard Stack
 
-Highest boost rate takes effect.
+Highest eligible boost rate takes effect.
 
 ## Resonance Stack
 
-Every boosts are added up.
+Every eligible boosts are added up.
 
 ## Skill Interaction
 
 | Skill | Value A | Value B | Value C |
 |  :-:  |   :-:   |   :-:   |   :-:   |
-| SU | x | - | - |
-| CU | x | - | - |
-| PL | + | - | - |
-| CG | + | - | - |
-| DG | +\[1\] | - | - |
-| HP | x | - | - |
-| OL | x\[2\] | - | - |
+| SU  | x | - | - |
+| CU  | x | - | - |
+| PL  | + | - | - |
+| CG  | + | - | - |
+| DG  | +\[1\] | - | - |
+| HP  | x | - | - |
+| OL  | x\[2\] | - | - |
+| CC  | x | - | - |
 | FOC | x | x | - |
-| AR | x | x | - |
+| AR  | x | x | - |
 | SYN | x | x | x |
-| SL | x | - | - |
+| SL  | x | - | - |
 | CRD | x | x | - |
 | ACT | x | x | - |
+| TUN | x | + | - |
 | MTF | x | - | - |
 | ALT | \~ | x | - |
 | MUT | \~ | x | - |
