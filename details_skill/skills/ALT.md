@@ -12,6 +12,10 @@ As per skill nature to increase the rate of highest SU, the tradeoff for caching
 
 See SU and CU stacks respectively.
 
+## Party Stack
+
+- Negative CU only takes effect to card owner.
+
 ## Skill Breakdown
 
 | Skill | Value | Fixed | Resonate? |
