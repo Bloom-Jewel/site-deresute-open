@@ -28,10 +28,10 @@ Skill Type priority is First Order of priority. Any clashes happen in respective
 2. Skill Boost Skills
 3. Damage Guard Skills
 4. Standard Skills
-5. Caching Skills
-    a. Alternate Skills
-    b. Mutual Skills
-    c. Refrain Skills
+5. Cache Skills
+    1. Alternate Skills
+    2. Mutual Skills
+    3. Refrain Skills
 
 ### Card Position Mimicking Priority
 
@@ -50,3 +50,7 @@ After unit precedence considered (if any), card position precedence is considere
 |---|---|---|---|---|
 
 Again, further the position, is the highest order/Last In = Mimicked for respective skill.
+
+### Common Mistakes on Priority Checkup
+
+1. Ignoring Skill Priority over Placement Priority.

@@ -8,9 +8,10 @@ To understand this, all skill that is activating had their flags checked right b
 2. Skill Boost Skills
 4. Damage Guard Skills
 6. Normal Skills
-8. Alternate Cache Skills
-10. Mutual Cache Skills
-12. Refrain Cache Skills
+8. Cache Skills
+    1. Alternate Skills
+    3. Mutual Skills
+    5. Refrain Skills
 
 Magic Skills are not written explicitly as the way Magic Skill checks is happened every step after Skill Priority Activation.
 
