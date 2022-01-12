@@ -17,3 +17,7 @@ Follows the copied skill.
 ## Negative Stack
 
 Follows the copied skill.
+
+## How it affects Mimic when copied by Magic?
+
+It retriggers the normal Mimic behavior instead copies the cached Mimic skill.
